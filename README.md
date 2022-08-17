@@ -24,4 +24,4 @@ https://bems2588.github.io/taskinator/
 * Visit my Github page at  https://github.com/bems2588
 * Contact me at bems2588@gmail.com
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Taskinator, Inc 
