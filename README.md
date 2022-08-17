@@ -24,4 +24,4 @@ https://bems2588.github.io/taskinator/
 * Visit my Github page at  https://github.com/bems2588
 * Contact me at bems2588@gmail.com
 
-### ©️2021 Taskinator, Inc 
+### ©️2020 Taskinator, Inc 
